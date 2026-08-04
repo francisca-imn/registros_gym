@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Documentos médicos/personales: no deben subirse a un repo público
+*.docx
